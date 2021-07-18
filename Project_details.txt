@@ -1,0 +1,25 @@
+EP Name:	DataMites™ Solutions Pvt Ltd
+
+Venue Name:	Open Project
+
+Exam Country:	India
+
+Assesment ID:	E10901-PR2-V18
+
+Module :	Certified Data Scientist - Project
+
+Language  :	English
+
+Exam Format  :	Open Project- IABAC™ Project Submission
+
+Submission Deadline Date:	27-Jul-2021  
+
+Submission Deadline Time:  23:59 Hrs [IST]
+
+Candidate Name :  G Vignesh
+
+Candidate Email:  vickyvignesh.0604@gmail.com
+
+Registered Trainer :	Ashok Kumar A
+
+Project Assessment :	IABAC™ 
